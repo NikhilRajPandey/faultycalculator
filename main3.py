@@ -9,9 +9,6 @@ inp2 = input("First number")
 # taking 3rd number
 inp3 = input("Last number")
 
-# making a new variable
-new_input = inp2 + inp1 + inp3
-
 # checking the input
 if new_input == "45*3":
     print(555)
