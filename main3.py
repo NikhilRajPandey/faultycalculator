@@ -1,3 +1,4 @@
+# its difenitly work without any Quary
 # making a faulty calculator
 
 # taking input from the user and changing into integer
